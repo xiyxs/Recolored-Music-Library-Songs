@@ -1,3 +1,3 @@
-# RecoloredMusicLibrarySongs
+# Recolored Music Library Songs
 
-This is where she makes a mod.
+Changes the color of songs from the Music Library in level search so they're different from songs that are on Newgrounds.
